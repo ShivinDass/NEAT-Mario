@@ -11,3 +11,16 @@ Generation 30:-
 
 Generation 600:-  
 ![](Gen600.gif)
+
+
+### Instructions to run:  
+Clone the repository(linux system)
+
+Install gym-super-mario-bros using pip
+
+Replace smb_env.py of the installation with "Files in the Library/smb_env.py"
+
+To train a new network run,
+``` bash
+python3 play.py
+```
